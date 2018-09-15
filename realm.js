@@ -1,7 +1,7 @@
 // mcpe_viz javascript helper file -- created by mcpe_viz program
 var worldName = 'Jameson\'s Realm - Copy';
 var worldSeed = 3143692896;
-var creationTime = 'Sat Sep 15 14:26:01 2018';
+var creationTime = 'Sat Sep 15 15:32:57 2018';
 var creationMcpeVizVersion = '0.0.38';
 var loadGeoJSONFlag = false;
 var fnGeoJSON = 'realm.geojson';
@@ -14,8 +14,8 @@ var dimensionInfo = {
   maxWorldX: 4384 + 15,
   minWorldY: -2288,
   maxWorldY: 2112 + 15,
-  playerPosX: 5044.884521,
-  playerPosY: 1627.700012,
+  playerPosX: 1986.364075,
+  playerPosY: 2070.649517,
   geojsonBlocks: [ 'End Portal Frame' ],
   spawnableFlag: false,
   fnLayerTop: 'tiles/realm.overworld.map.png.{y}.{x}.png',
@@ -291,8 +291,8 @@ var dimensionInfo = {
   maxWorldX: 1552 + 15,
   minWorldY: -752,
   maxWorldY: 352 + 15,
-  playerPosX: 630.610565,
-  playerPosY: 203.462502,
+  playerPosX: 248.295509,
+  playerPosY: 258.831190,
   geojsonBlocks: [  ],
   spawnableFlag: false,
   fnLayerTop: 'tiles/realm.nether.map.png.{y}.{x}.png',
@@ -565,11 +565,11 @@ var dimensionInfo = {
 },
 '2': {
   minWorldX: -1360,
-  maxWorldX: 3312 + 15,
+  maxWorldX: 4016 + 15,
   minWorldY: -128,
-  maxWorldY: 1072 + 15,
-  playerPosX: 5044.884521,
-  playerPosY: 1627.700012,
+  maxWorldY: 1936 + 15,
+  playerPosX: 1986.364075,
+  playerPosY: 2070.649517,
   geojsonBlocks: [  ],
   spawnableFlag: false,
   fnLayerTop: 'tiles/realm.the-end.map.png.{y}.{x}.png',
@@ -1580,37 +1580,27 @@ var biomeColorLUT = {
 };
 // lut for inventory items
 var imageIconLUT = {
-'33': 'images/mcpe_viz.block.111.0.png',
 '5': 'images/mcpe_viz.block.12.0.png',
 '1': 'images/mcpe_viz.block.13.0.png',
-'35': 'images/mcpe_viz.block.159.1.png',
 '24': 'images/mcpe_viz.block.175.5.png',
 '23': 'images/mcpe_viz.block.3.0.png',
 '11': 'images/mcpe_viz.block.37.0.png',
 '21': 'images/mcpe_viz.block.38.3.png',
 '3': 'images/mcpe_viz.block.39.0.png',
-'28': 'images/mcpe_viz.block.4.0.png',
 '4': 'images/mcpe_viz.block.40.0.png',
-'34': 'images/mcpe_viz.block.44.1.png',
 '10': 'images/mcpe_viz.block.66.0.png',
-'27': 'images/mcpe_viz.block.70.0.png',
 '7': 'images/mcpe_viz.block.88.0.png',
 '15': 'images/mcpe_viz.item.261.0.png',
 '26': 'images/mcpe_viz.item.272.0.png',
-'31': 'images/mcpe_viz.item.274.0.png',
 '18': 'images/mcpe_viz.item.280.0.png',
 '8': 'images/mcpe_viz.item.283.0.png',
 '12': 'images/mcpe_viz.item.287.0.png',
-'30': 'images/mcpe_viz.item.288.0.png',
 '2': 'images/mcpe_viz.item.295.0.png',
 '19': 'images/mcpe_viz.item.298.0.png',
 '22': 'images/mcpe_viz.item.300.0.png',
 '13': 'images/mcpe_viz.item.302.0.png',
 '14': 'images/mcpe_viz.item.303.0.png',
 '20': 'images/mcpe_viz.item.314.0.png',
-'29': 'images/mcpe_viz.item.318.0.png',
-'32': 'images/mcpe_viz.item.332.0.png',
-'36': 'images/mcpe_viz.item.334.0.png',
 '9': 'images/mcpe_viz.item.335.0.png',
 '6': 'images/mcpe_viz.item.344.0.png',
 '17': 'images/mcpe_viz.item.352.0.png',
