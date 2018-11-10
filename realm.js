@@ -1,7 +1,7 @@
 // mcpe_viz javascript helper file -- created by mcpe_viz program
 var worldName = 'Jameson\'s Realm - Copy';
 var worldSeed = 3143692896;
-var creationTime = 'Fri Oct 12 20:04:15 2018';
+var creationTime = 'Sat Nov 10 09:01:48 2018';
 var creationMcpeVizVersion = '0.0.38';
 var loadGeoJSONFlag = false;
 var fnGeoJSON = 'realm.geojson';
@@ -14,8 +14,8 @@ var dimensionInfo = {
   maxWorldX: 4384 + 15,
   minWorldY: -2288,
   maxWorldY: 2304 + 15,
-  playerPosX: 1986.500000,
-  playerPosY: 2262.500000,
+  playerPosX: 1999.530701,
+  playerPosY: 2436.403885,
   geojsonBlocks: [ 'End Portal Frame' ],
   spawnableFlag: false,
   fnLayerTop: 'tiles/realm.overworld.map.png.{y}.{x}.png',
@@ -291,8 +291,8 @@ var dimensionInfo = {
   maxWorldX: 1552 + 15,
   minWorldY: -752,
   maxWorldY: 352 + 15,
-  playerPosX: 248.312500,
-  playerPosY: 282.812500,
+  playerPosX: 249.941338,
+  playerPosY: 304.550486,
   geojsonBlocks: [  ],
   spawnableFlag: false,
   fnLayerTop: 'tiles/realm.nether.map.png.{y}.{x}.png',
@@ -568,8 +568,8 @@ var dimensionInfo = {
   maxWorldX: 4016 + 15,
   minWorldY: -128,
   maxWorldY: 1936 + 15,
-  playerPosX: 1986.500000,
-  playerPosY: 2262.500000,
+  playerPosX: 1999.530701,
+  playerPosY: 2436.403885,
   geojsonBlocks: [  ],
   spawnableFlag: false,
   fnLayerTop: 'tiles/realm.the-end.map.png.{y}.{x}.png',
