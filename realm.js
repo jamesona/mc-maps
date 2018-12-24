@@ -1,7 +1,7 @@
 // mcpe_viz javascript helper file -- created by mcpe_viz program
 var worldName = 'Jameson\'s Realm - Copy';
 var worldSeed = 3143692896;
-var creationTime = 'Sat Nov 10 09:01:48 2018';
+var creationTime = 'Sun Dec 23 14:01:01 2018';
 var creationMcpeVizVersion = '0.0.38';
 var loadGeoJSONFlag = false;
 var fnGeoJSON = 'realm.geojson';
